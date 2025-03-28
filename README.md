@@ -1,3 +1,5 @@
+# blindkit
+
 ***Blindkit*** is a configurable CLI tool that converts a standard *34x34* blind image to the animated blind image with the sheen effect.
 
 ## How to use?
