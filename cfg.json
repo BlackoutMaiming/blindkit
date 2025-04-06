@@ -4,5 +4,6 @@
     "g": 255,
     "b": 255
   },
-  "sheen_amount": 0.2353
+  "sheen_amount": 0.2353,
+  "output_file": "output"
 }
